@@ -1,4 +1,4 @@
-# DL-Mini-Project-1
+# CIFAR10-Image-Classification-using-Resnets
 
 In this zipped folder I am uploading the following files:
 project1_model.py : This is our Resnet model 
